@@ -8,3 +8,9 @@ An end-to-end multi-disciplinary data analytics project investigating customer p
 * **Exploratory Data Analysis:** Python (Jupyter Notebook, Pandas, NumPy)
 * **Visualization & Business Intelligence:** Power BI (`.pbix` dashboard)
 * **Documentation:** Business Requirement Documents & Executive Summaries
+
+
+
+## 📊 Power BI Dashboard Preview
+
+![Customer Shopping Behavior Dashboard](assets/dashboard_preview.png)
